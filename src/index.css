@@ -1,0 +1,21 @@
+* {
+    margin:0px;
+    padding:0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: rgb(0, 0, 145);
+    margin: 2px;
+}
+
+button{
+    margin: 10px;
+    padding: 10px;
+}
+
+.app {
+    background-color: cadetblue;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+}
